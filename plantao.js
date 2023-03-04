@@ -56,7 +56,6 @@ if (media >= 7) {
 /* laço ou estrutura de repetição eçe repete um bloco de código enquanto uma condição for verdadeira*/
 
 
-/* i = 0 atualizar 1 = 1
+i = 0 atualizar 1 = 1
 i = 1 atualiza 1 =2
 i++ => i = i + 1
-*/
